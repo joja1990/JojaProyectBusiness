@@ -1,0 +1,10 @@
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.deps.json
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.csproj.AssemblyReference.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.AssemblyInfoInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.AssemblyInfo.cs
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.csproj.CoreCompileInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.DTO\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.pdb

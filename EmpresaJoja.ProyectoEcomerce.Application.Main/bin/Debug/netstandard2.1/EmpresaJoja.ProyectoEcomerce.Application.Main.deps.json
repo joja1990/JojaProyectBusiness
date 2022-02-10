@@ -1,0 +1,122 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "EmpresaJoja.ProyectoEcomerce.Application.Main/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "EmpresaJoja.ProyectoEcomerce.Application.DTO": "1.0.0",
+          "EmpresaJoja.ProyectoEcomerce.Application.Interface": "1.0.0",
+          "EmpresaJoja.ProyectoEcomerce.Domain.Entity": "1.0.0",
+          "EmpresaJoja.ProyectoEcomerce.Domain.Interface": "1.0.0",
+          "EmpresaJoja.ProyectoEcomerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Application.Main.dll": {}
+        }
+      },
+      "AutoMapper/11.0.1": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/AutoMapper.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.CSharp.dll": {
+            "assemblyVersion": "4.0.5.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Application.DTO.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Application.Interface/1.0.0": {
+        "dependencies": {
+          "EmpresaJoja.ProyectoEcomerce.Application.DTO": "1.0.0",
+          "EmpresaJoja.ProyectoEcomerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Application.Interface.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Entity.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Interface.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpresaJoja.ProyectoEcomerce.Application.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoMapper/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+      "path": "automapper/11.0.1",
+      "hashPath": "automapper.11.0.1.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "EmpresaJoja.ProyectoEcomerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpresaJoja.ProyectoEcomerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpresaJoja.ProyectoEcomerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpresaJoja.ProyectoEcomerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpresaJoja.ProyectoEcomerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

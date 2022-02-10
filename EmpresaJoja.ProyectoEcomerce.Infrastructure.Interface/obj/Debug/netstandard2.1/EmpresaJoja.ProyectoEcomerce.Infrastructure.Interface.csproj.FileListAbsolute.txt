@@ -1,0 +1,13 @@
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.deps.json
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj.AssemblyReference.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.AssemblyInfoInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.AssemblyInfo.cs
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj.CopyComplete
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.pdb

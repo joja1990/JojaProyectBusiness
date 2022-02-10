@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "EmpresaJoja.ProyectoEcomerce.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Interface.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpresaJoja.ProyectoEcomerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpresaJoja.ProyectoEcomerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

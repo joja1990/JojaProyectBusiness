@@ -1,0 +1,13 @@
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.deps.json
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj.AssemblyReference.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.AssemblyInfoInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.AssemblyInfo.cs
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj.CoreCompileInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj.CopyComplete
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.pdb

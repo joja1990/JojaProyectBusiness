@@ -1,0 +1,10 @@
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.deps.json
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj.AssemblyReference.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.AssemblyInfo.cs
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Transversal.Common\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.pdb

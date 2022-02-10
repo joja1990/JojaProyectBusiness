@@ -1,0 +1,332 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj",
+        "projectName": "EmpresaJoja.ProyectoEcomerce.Domain.Entity",
+        "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj",
+        "projectName": "EmpresaJoja.ProyectoEcomerce.Infraestructura.Data",
+        "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj",
+        "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj",
+        "projectName": "EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface",
+        "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository.csproj",
+        "projectName": "EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository",
+        "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj": {
+                "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data\\EmpresaJoja.ProyectoEcomerce.Infraestructura.Data.csproj"
+              },
+              "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj"
+              },
+              "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj",
+        "projectName": "EmpresaJoja.ProyectoEcomerce.Transversal.Common",
+        "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

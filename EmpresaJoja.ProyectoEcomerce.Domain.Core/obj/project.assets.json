@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "EmpresaJoja.ProyectoEcomerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Domain.Entity.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Domain.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Domain.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Domain.Interface.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "EmpresaJoja.ProyectoEcomerce.Domain.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpresaJoja.ProyectoEcomerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../EmpresaJoja.ProyectoEcomerce.Domain.Entity/EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj",
+      "msbuildProject": "../EmpresaJoja.ProyectoEcomerce.Domain.Entity/EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj"
+    },
+    "EmpresaJoja.ProyectoEcomerce.Domain.Interface/1.0.0": {
+      "type": "project",
+      "path": "../EmpresaJoja.ProyectoEcomerce.Domain.Interface/EmpresaJoja.ProyectoEcomerce.Domain.Interface.csproj",
+      "msbuildProject": "../EmpresaJoja.ProyectoEcomerce.Domain.Interface/EmpresaJoja.ProyectoEcomerce.Domain.Interface.csproj"
+    },
+    "EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "path": "../EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface/EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj",
+      "msbuildProject": "../EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface/EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "EmpresaJoja.ProyectoEcomerce.Domain.Entity >= 1.0.0",
+      "EmpresaJoja.ProyectoEcomerce.Domain.Interface >= 1.0.0",
+      "EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\d\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Core\\EmpresaJoja.ProyectoEcomerce.Domain.Core.csproj",
+      "projectName": "EmpresaJoja.ProyectoEcomerce.Domain.Core",
+      "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Core\\EmpresaJoja.ProyectoEcomerce.Domain.Core.csproj",
+      "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+      "outputPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj": {
+              "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Entity\\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj"
+            },
+            "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Interface\\EmpresaJoja.ProyectoEcomerce.Domain.Interface.csproj": {
+              "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Domain.Interface\\EmpresaJoja.ProyectoEcomerce.Domain.Interface.csproj"
+            },
+            "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj": {
+              "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface\\EmpresaJoja.ProyectoEcomerce.Infrastructure.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

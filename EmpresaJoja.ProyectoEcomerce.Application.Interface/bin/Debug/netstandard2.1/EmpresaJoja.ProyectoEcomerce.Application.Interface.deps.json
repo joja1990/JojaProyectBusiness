@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "EmpresaJoja.ProyectoEcomerce.Application.Interface/1.0.0": {
+        "dependencies": {
+          "EmpresaJoja.ProyectoEcomerce.Application.DTO": "1.0.0",
+          "EmpresaJoja.ProyectoEcomerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Application.Interface.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Application.DTO.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpresaJoja.ProyectoEcomerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpresaJoja.ProyectoEcomerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmpresaJoja.ProyectoEcomerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

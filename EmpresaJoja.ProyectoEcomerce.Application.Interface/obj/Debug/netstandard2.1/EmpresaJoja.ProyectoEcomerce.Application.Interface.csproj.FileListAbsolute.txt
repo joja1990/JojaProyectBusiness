@@ -1,0 +1,15 @@
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.deps.json
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.DTO.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Transversal.Common.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.csproj.AssemblyReference.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.AssemblyInfoInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.AssemblyInfo.cs
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.csproj.CoreCompileInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.csproj.CopyComplete
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Application.Interface\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Application.Interface.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmpresaJoja.ProyectoEcomerce.Application.DTO\EmpresaJoja.ProyectoEcomerce.Application.DTO.csproj" />
+    <ProjectReference Include="..\EmpresaJoja.ProyectoEcomerce.Application.Interface\EmpresaJoja.ProyectoEcomerce.Application.Interface.csproj" />
+    <ProjectReference Include="..\EmpresaJoja.ProyectoEcomerce.Domain.Entity\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj" />
+    <ProjectReference Include="..\EmpresaJoja.ProyectoEcomerce.Domain.Interface\EmpresaJoja.ProyectoEcomerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\EmpresaJoja.ProyectoEcomerce.Transversal.Common\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

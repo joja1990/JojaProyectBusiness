@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jf5B11FRiL2xHaKlxBwIHMi1D3uM0zWehws1WWJzpM9VFkHpkWTiodIhcRGhIdw1LvUZRJQfI8dB64LmkBeOew==",
+  "success": true,
+  "projectFilePath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Application.Main\\EmpresaJoja.ProyectoEcomerce.Application.Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\d\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "EmpresaJoja.ProyectoEcomerce.Application.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Application.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Application.DTO.dll": {}
+        }
+      },
+      "EmpresaJoja.ProyectoEcomerce.Transversal.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmpresaJoja.ProyectoEcomerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmpresaJoja.ProyectoEcomerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "path": "../EmpresaJoja.ProyectoEcomerce.Application.DTO/EmpresaJoja.ProyectoEcomerce.Application.DTO.csproj",
+      "msbuildProject": "../EmpresaJoja.ProyectoEcomerce.Application.DTO/EmpresaJoja.ProyectoEcomerce.Application.DTO.csproj"
+    },
+    "EmpresaJoja.ProyectoEcomerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "path": "../EmpresaJoja.ProyectoEcomerce.Transversal.Common/EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj",
+      "msbuildProject": "../EmpresaJoja.ProyectoEcomerce.Transversal.Common/EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "EmpresaJoja.ProyectoEcomerce.Application.DTO >= 1.0.0",
+      "EmpresaJoja.ProyectoEcomerce.Transversal.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\d\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Application.Interface\\EmpresaJoja.ProyectoEcomerce.Application.Interface.csproj",
+      "projectName": "EmpresaJoja.ProyectoEcomerce.Application.Interface",
+      "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Application.Interface\\EmpresaJoja.ProyectoEcomerce.Application.Interface.csproj",
+      "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+      "outputPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Application.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Application.DTO\\EmpresaJoja.ProyectoEcomerce.Application.DTO.csproj": {
+              "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Application.DTO\\EmpresaJoja.ProyectoEcomerce.Application.DTO.csproj"
+            },
+            "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj": {
+              "projectPath": "D:\\ProyectosNET\\EmpresaJoja.ProyectoEcomerce\\EmpresaJoja.ProyectoEcomerce.Transversal.Common\\EmpresaJoja.ProyectoEcomerce.Transversal.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

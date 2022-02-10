@@ -1,0 +1,10 @@
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.deps.json
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\bin\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.pdb
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj.AssemblyReference.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.AssemblyInfoInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.AssemblyInfo.cs
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.csproj.CoreCompileInputs.cache
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.dll
+D:\ProyectosNET\EmpresaJoja.ProyectoEcomerce\EmpresaJoja.ProyectoEcomerce.Domain.Entity\obj\Debug\netstandard2.1\EmpresaJoja.ProyectoEcomerce.Domain.Entity.pdb
